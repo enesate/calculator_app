@@ -1,6 +1,5 @@
-# calculator2
-
-A new Flutter project.
+# Calculator App
+![Screenshot_20231206_005801](https://github.com/enesate/calculator_app/assets/77548163/42dec4c8-245c-43cd-9fdb-4e4974803a95)
 
 ## Getting Started
 
